@@ -1,0 +1,530 @@
+{
+  "Bridge": {
+    "path": "card-art/bridge.webp",
+    "width": 260.131,
+    "left": -99.346,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57691
+  },
+  "Campfire": {
+    "path": "card-art/campfire.webp",
+    "width": 260.959,
+    "left": -70.548,
+    "height": 120.919,
+    "top": -1.451,
+    "ratio": 0.64711
+  },
+  "Cavern": {
+    "path": "card-art/cavern.webp",
+    "width": 261.842,
+    "left": -101.316,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57024
+  },
+  "Celestial": {
+    "path": "card-art/celestial.webp",
+    "width": 251.282,
+    "left": -59.615,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.58493
+  },
+  "Comet": {
+    "path": "card-art/comet.webp",
+    "width": 267.114,
+    "left": -104.027,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.56428
+  },
+  "Construct": {
+    "path": "card-art/construct.webp",
+    "width": 259.589,
+    "left": -68.493,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.54758
+  },
+  "Corpse": {
+    "path": "card-art/corpse.webp",
+    "width": 261.842,
+    "left": -101.316,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57421
+  },
+  "Crossroads": {
+    "path": "card-art/crossroads.webp",
+    "width": 255.556,
+    "left": -62.5,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.54062
+  },
+  "Donjon": {
+    "path": "card-art/donjon.webp",
+    "width": 261.184,
+    "left": -99.342,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57099
+  },
+  "Door": {
+    "path": "card-art/door.webp",
+    "width": 261.486,
+    "left": -67.568,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.55543
+  },
+  "Dragon": {
+    "path": "card-art/dragon.webp",
+    "width": 265.333,
+    "left": -102.667,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.56553
+  },
+  "Elemental": {
+    "path": "card-art/elemental.webp",
+    "width": 265.333,
+    "left": -79.333,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57413
+  },
+  "Euryale": {
+    "path": "card-art/euryale.webp",
+    "width": 268.919,
+    "left": -102.703,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.55909
+  },
+  "Expert": {
+    "path": "card-art/expert.webp",
+    "width": 258.904,
+    "left": -67.123,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.54771
+  },
+  "Fates": {
+    "path": "card-art/fates.webp",
+    "width": 259.868,
+    "left": -100.0,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57086
+  },
+  "Fey": {
+    "path": "card-art/fey.webp",
+    "width": 267.115,
+    "left": -79.866,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57458
+  },
+  "Fiend": {
+    "path": "card-art/fiend.webp",
+    "width": 263.576,
+    "left": -102.649,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.58074
+  },
+  "Flames": {
+    "path": "card-art/flames.webp",
+    "width": 272.603,
+    "left": -80.822,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.55964
+  },
+  "Fool": {
+    "path": "card-art/fool.webp",
+    "width": 260.131,
+    "left": -97.386,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57856
+  },
+  "Gem": {
+    "path": "card-art/gem.webp",
+    "width": 270.548,
+    "left": -71.233,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.54743
+  },
+  "Giant": {
+    "path": "card-art/giant.webp",
+    "width": 268.919,
+    "left": -104.054,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.55696
+  },
+  "Humanoid": {
+    "path": "card-art/humanoid.webp",
+    "width": 260.667,
+    "left": -70.0,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.56261
+  },
+  "Jester": {
+    "path": "card-art/jester.webp",
+    "width": 263.576,
+    "left": -99.338,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57222
+  },
+  "Key": {
+    "path": "card-art/key.webp",
+    "width": 262.162,
+    "left": -70.946,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.55602
+  },
+  "Knight": {
+    "path": "card-art/knight.webp",
+    "width": 263.576,
+    "left": -100.0,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.5672
+  },
+  "Lance": {
+    "path": "card-art/lance.webp",
+    "width": 267.568,
+    "left": -66.216,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.55573
+  },
+  "Mage": {
+    "path": "card-art/mage.webp",
+    "width": 263.576,
+    "left": -100.0,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57019
+  },
+  "Map": {
+    "path": "card-art/map.webp",
+    "width": 266.443,
+    "left": -70.47,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.55882
+  },
+  "Maze": {
+    "path": "card-art/maze.webp",
+    "width": 263.576,
+    "left": -98.013,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.56798
+  },
+  "Mine": {
+    "path": "card-art/mine.webp",
+    "width": 268.027,
+    "left": -74.83,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.55226
+  },
+  "Monstrosity": {
+    "path": "card-art/monstrosity.webp",
+    "width": 263.576,
+    "left": -98.013,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.5664
+  },
+  "Moon": {
+    "path": "card-art/moon.webp",
+    "width": 261.842,
+    "left": -71.053,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57232
+  },
+  "Ooze": {
+    "path": "card-art/ooze.webp",
+    "width": 265.333,
+    "left": -102.0,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57096
+  },
+  "Path": {
+    "path": "card-art/path.webp",
+    "width": 272.603,
+    "left": -76.712,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.55172
+  },
+  "Pit": {
+    "path": "card-art/pit.webp",
+    "width": 267.114,
+    "left": -102.013,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.55977
+  },
+  "Plant": {
+    "path": "card-art/plant.webp",
+    "width": 267.114,
+    "left": -78.523,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.56661
+  },
+  "Priest": {
+    "path": "card-art/priest.webp",
+    "width": 263.576,
+    "left": -103.311,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.58135
+  },
+  "Prisoner": {
+    "path": "card-art/prisoner.webp",
+    "width": 265.772,
+    "left": -77.181,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.55987
+  },
+  "Puzzle": {
+    "path": "card-art/puzzle.webp",
+    "width": 263.576,
+    "left": -100.0,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.56918
+  },
+  "Ring": {
+    "path": "card-art/ring.webp",
+    "width": 265.772,
+    "left": -68.456,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.55884
+  },
+  "Rogue": {
+    "path": "card-art/rogue.webp",
+    "width": 263.576,
+    "left": -100.0,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57145
+  },
+  "Ruin": {
+    "path": "card-art/ruin.webp",
+    "width": 274.483,
+    "left": -77.241,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.54561
+  },
+  "Sage": {
+    "path": "card-art/sage.webp",
+    "width": 260.131,
+    "left": -98.039,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57849
+  },
+  "Shield": {
+    "path": "card-art/shield.webp",
+    "width": 274.483,
+    "left": -77.931,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.55671
+  },
+  "Ship": {
+    "path": "card-art/ship.webp",
+    "width": 265.541,
+    "left": -101.351,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.55522
+  },
+  "Skull": {
+    "path": "card-art/skull.webp",
+    "width": 272.603,
+    "left": -73.288,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.56242
+  },
+  "Staff": {
+    "path": "card-art/staff.webp",
+    "width": 261.842,
+    "left": -100.0,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57348
+  },
+  "Stairway": {
+    "path": "card-art/stairway.webp",
+    "width": 263.333,
+    "left": -68.0,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.56331
+  },
+  "Star": {
+    "path": "card-art/star.webp",
+    "width": 267.114,
+    "left": -99.329,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.56049
+  },
+  "Statue": {
+    "path": "card-art/statue.webp",
+    "width": 272.603,
+    "left": -70.548,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.55543
+  },
+  "Sun": {
+    "path": "card-art/sun.webp",
+    "width": 265.333,
+    "left": -102.0,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57512
+  },
+  "Talons": {
+    "path": "card-art/talons.webp",
+    "width": 267.114,
+    "left": -71.812,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.5662
+  },
+  "Tavern": {
+    "path": "card-art/tavern.webp",
+    "width": 263.576,
+    "left": -101.987,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.5802
+  },
+  "Temple": {
+    "path": "card-art/temple.webp",
+    "width": 268.919,
+    "left": -69.595,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.56167
+  },
+  "Throne": {
+    "path": "card-art/throne.webp",
+    "width": 260.131,
+    "left": -100.0,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.5744
+  },
+  "Tomb": {
+    "path": "card-art/tomb.webp",
+    "width": 270.748,
+    "left": -69.388,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.56164
+  },
+  "Tower": {
+    "path": "card-art/tower.webp",
+    "width": 267.114,
+    "left": -100.0,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57129
+  },
+  "Tree": {
+    "path": "card-art/tree.webp",
+    "width": 270.748,
+    "left": -71.429,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.56234
+  },
+  "Undead": {
+    "path": "card-art/undead.webp",
+    "width": 260.131,
+    "left": -98.693,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.58356
+  },
+  "Void": {
+    "path": "card-art/void.webp",
+    "width": 272.603,
+    "left": -73.288,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.55476
+  },
+  "Warrior": {
+    "path": "card-art/warrior.webp",
+    "width": 268.919,
+    "left": -104.054,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.56042
+  },
+  "Well": {
+    "path": "card-art/well.webp",
+    "width": 254.902,
+    "left": -66.013,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.57425
+  },
+  "Aberration": {
+    "path": "card-art/aberration.webp",
+    "width": 263.576,
+    "left": -103.311,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.56691
+  },
+  "Balance": {
+    "path": "card-art/balance.webp",
+    "width": 264.0,
+    "left": -70.0,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.56243
+  },
+  "Beast": {
+    "path": "card-art/beast.webp",
+    "width": 261.842,
+    "left": -101.974,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.5737
+  },
+  "Book": {
+    "path": "card-art/book.webp",
+    "width": 268.919,
+    "left": -72.297,
+    "height": 102.459,
+    "top": -1.23,
+    "ratio": 0.56003
+  }
+}

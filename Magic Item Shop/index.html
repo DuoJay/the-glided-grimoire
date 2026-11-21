@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Roll a ready-to-play D&D magic item shop."><title>The Gilded Grimoire</title><link rel="stylesheet" href="style.css">
+<body>
+<header><div class="wrap mast"><b><span>✧</span> THE GILDED GRIMOIRE</b><small>DUNGEON MASTER'S TOOLKIT</small></div></header>
+<main class="wrap">
+<section class="hero"><div><div class="eyebrow">✦ &nbsp; THE ADVENTURER’S MARKET</div><h1>Magic Item<br><em>Shop Generator</em></h1><p>Roll up an arcane storefront, a curious shopkeeper, and a shelf full of wonders for your next D&D session.</p></div>
+<svg viewBox="0 0 330 235" aria-hidden="true" fill="none" stroke="currentColor"><circle cx="172" cy="115" r="103" opacity=".32"/><circle cx="172" cy="115" r="87" stroke-dasharray="2 5" opacity=".5"/><path d="M172 28 247 159H97Zm0 174L97 71h150Z" opacity=".35"/><path d="m172 47 61 43-22 69-39 30-40-30-22-69z" fill="#302139" stroke-width="2"/><path d="m172 47 32 60-32 82-32-82z" fill="#583951"/><path d="m110 90 62 37 61-37m-101 69 40-32 39 32m-71-52 32 20 32-20m-32-60v142" opacity=".7"/><path d="M64 49v22m-11-11h22m201 62v28m-14-14h28M90 180v18m-9-9h18m159-150v16m-8-8h16" stroke-width="2"/><circle cx="70" cy="128" r="2"/><circle cx="269" cy="180" r="2"/><circle cx="207" cy="23" r="2"/></svg></section>
+<div class="layout">
+<aside><div class="eyebrow">01 / CONFIGURE</div><h2>Stock the shop</h2><form id="config">
+<label for="type">Shop specialty</label><select id="type"><option value="all">General shop · All items</option><option value="fletcher">Fletcher · Bows & arrows</option><option value="armorer">Armorer · Armor & shields</option><option value="blacksmith">Blacksmith · Melee weapons</option><option value="apothecary">Apothecary · Potions</option><option value="enchanter">Enchanter · Staves, wands & curios</option></select>
+<label for="rarity">Maximum rarity</label><select id="rarity"><option>Common</option><option selected>Uncommon</option><option>Rare</option><option>Very rare</option><option>Legendary</option><option>Artifact</option></select>
+<label for="source">Sourcebook</label><select id="source"><option value="">All sourcebooks</option><option value="bgdia">Descent into Avernus</option><option value="au">Arcana Unleashed</option><option value="dmg">Dungeon Master’s Guide (2024)</option><option value="phb">Player’s Handbook (2024)</option></select>
+<label for="count">Inventory size <output id="amount" for="count">6</output></label><input id="count" type="range" min="3" max="8" value="6"><div class="range"><span id="minimum">3 items</span><span id="maximum">8 items</span></div>
+<button class="roll" type="submit">⚄ &nbsp; Roll a shop</button></form><p class="note">Prices follow the DMG rarity values. Consumables are half value; spell scrolls cost twice their PHB scribing cost. Weapons and armor include the price of the base item shown on each card. 557 catalog entries, including variants.</p></aside>
+<section class="results" aria-label="Generated shop"><div class="result-top"><div class="eyebrow">02 / YOUR STOREFRONT</div><button id="copy" type="button">▤ &nbsp; Copy shop</button></div>
+<div class="shop"><div class="seal" aria-hidden="true">✵</div><div><h2 id="shop"></h2><p id="keeper"></p></div></div><p class="hook" id="hook"></p>
+<div class="catalog-search"><label for="item-search">Search magical items</label><div class="search-controls"><input id="item-search" type="search" placeholder="Try bag of holding, potion, or sword…" autocomplete="off" aria-describedby="search-help"><button type="button" id="clear-search">Clear</button></div><p id="search-help">Search the full catalog with your selected specialty, sourcebook, and rarity filters. Clear to return to your shop.</p></div>
+<div class="inventory"><h3 id="inventory-title">Shop inventory</h3><small id="stock" aria-live="polite"></small></div><div id="rarity-filters" role="group" aria-label="Filter inventory by rarity"></div><div id="items"></div><p id="status" role="status"></p></section>
+</div>
+</main><footer class="wrap"><span>✧ &nbsp; THE GILDED GRIMOIRE</span><span>For Dungeon Masters · Published D&amp;D magic items</span></footer>
+<script src="app.js"></script></body></html>

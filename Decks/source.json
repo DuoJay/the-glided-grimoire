@@ -1,0 +1,5333 @@
+{
+  "revision": 5,
+  "names": [
+    "Aberration",
+    "Beast",
+    "Celestial",
+    "Construct",
+    "Corpse",
+    "Dragon",
+    "Elemental",
+    "Euryale",
+    "Fey",
+    "Fiend",
+    "Giant",
+    "Humanoid",
+    "Jester",
+    "Moon",
+    "Monstrosity",
+    "Ooze",
+    "Plant",
+    "Skull",
+    "Talons",
+    "Tree",
+    "Undead",
+    "Void"
+  ],
+  "entries": [
+    {
+      "number": 1,
+      "a": 0,
+      "b": 1,
+      "pair": "Aberration + Beast",
+      "type": "P",
+      "title": "Psychic Companion",
+      "description": "Permanently gain a Pseudodragon familiar using its official statistics.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Pseudodragon",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-p#Pseudodragon",
+              "pages": [
+                249
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "a": 0,
+      "b": 2,
+      "pair": "Aberration + Celestial",
+      "type": "P",
+      "title": "Enlightened Mind",
+      "description": "Permanently gain 60-foot telepathy and advantage on saving throws against being Frightened.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Frightened",
+              "pages": [
+                367
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "a": 0,
+      "b": 3,
+      "pair": "Aberration + Construct",
+      "type": "P",
+      "title": "Unnatural Sentinel",
+      "description": "Summon an Animated Armor for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Animated Armor",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-a#AnimatedArmor",
+              "pages": [
+                16
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "a": 0,
+      "b": 4,
+      "pair": "Aberration + Corpse",
+      "type": "N",
+      "title": "Aberrant Decay",
+      "description": "Maximum HP decreases by 5 until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "a": 0,
+      "b": 5,
+      "pair": "Aberration + Dragon",
+      "type": "E",
+      "title": "Aberrant Dragon",
+      "description": "Once per Long Rest, transform for 1 minute. Gain 40-foot flight, psychic resistance, and one 30-foot cone dealing 4d8 psychic damage (Intelligence save for half). The cone requires a Magic action.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 6,
+      "a": 0,
+      "b": 6,
+      "pair": "Aberration + Elemental",
+      "type": "P",
+      "title": "Distorted Element",
+      "description": "Summon a Dust Mephit for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Dust Mephit",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-m#DustMephit",
+              "pages": [
+                206
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "a": 0,
+      "b": 7,
+      "pair": "Aberration + Euryale",
+      "type": "P",
+      "title": "Terrifying Gaze",
+      "description": "Once per Long Rest, as a Magic action, force a creature within 30 feet to make a Wisdom save or become Frightened for 1 minute, repeating the save at the end of each turn.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Frightened",
+              "pages": [
+                367
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "a": 0,
+      "b": 8,
+      "pair": "Aberration + Fey",
+      "type": "P",
+      "title": "Distorted Reflection",
+      "description": "Once per Long Rest, as a Bonus Action, teleport up to 30 feet to an unoccupied space you can see.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 9,
+      "a": 0,
+      "b": 9,
+      "pair": "Aberration + Fiend",
+      "type": "N",
+      "title": "Aberrant Pursuit",
+      "description": "A hostile Imp appears within 30 feet after each Long Rest. Only one created by this curse can exist at once. Ends with Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        },
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Imp",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-i#Imp",
+              "pages": [
+                177
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "a": 0,
+      "b": 10,
+      "pair": "Aberration + Giant",
+      "type": "P",
+      "title": "Many-Armed Horror",
+      "description": "Once per Long Rest, grow spectral arms for 1 minute, gaining advantage on Strength checks, including grappling. No additional attacks.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 11,
+      "a": 0,
+      "b": 11,
+      "pair": "Aberration + Humanoid",
+      "type": "E",
+      "title": "Perfect Adaptation",
+      "description": "Once per Long Rest, cast Alter Self without concentration, lasting 1 hour.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Alter Self",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                239
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "a": 0,
+      "b": 12,
+      "pair": "Aberration + Jester",
+      "type": "P",
+      "title": "Mischievous Familiar",
+      "description": "Permanently gain a Sprite familiar.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Sprite",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-s#Sprite",
+              "pages": [
+                298
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "a": 0,
+      "b": 13,
+      "pair": "Aberration + Moon",
+      "type": "P",
+      "title": "Lunar Perception",
+      "description": "Permanently gain 60-foot Darkvision, or increase existing Darkvision by 30 feet. Once per Long Rest, sense the presence, but not identity, of shapeshifters within 30 feet for 1 minute.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 14,
+      "a": 0,
+      "b": 14,
+      "pair": "Aberration + Monstrosity",
+      "type": "N",
+      "title": "Unsettling Mutation",
+      "description": "Develop disturbing aberrant features. Disadvantage on Charisma (Persuasion) checks against unfamiliar Humanoids. Permanent — Cannot Be Cured.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 15,
+      "a": 0,
+      "b": 15,
+      "pair": "Aberration + Ooze",
+      "type": "P",
+      "title": "Fluid Anatomy",
+      "description": "Once per Long Rest, pass through gaps at least 1 inch wide for 1 minute, provided equipment fits or is left behind.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 16,
+      "a": 0,
+      "b": 16,
+      "pair": "Aberration + Plant",
+      "type": "P",
+      "title": "Symbiotic Tendril",
+      "description": "Permanently grow a spectral tendril with 10-foot reach. As a Magic action, manipulate unattended objects weighing up to 10 pounds. Cannot attack or activate magic items.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 17,
+      "a": 0,
+      "b": 17,
+      "pair": "Aberration + Skull",
+      "type": "E",
+      "title": "Mind Flayer Transformation",
+      "description": "Once per Long Rest, transform into the physical form of a Mind Flayer for 1 minute. Purple skin, facial tentacles, and alien eyes replace your normal appearance. Retain normal statistics, HP, equipment, and class features. Gain 60-foot telepathy. Once during the transformation, use a Magic action to unleash a 30-foot cone dealing 4d8 psychic damage, Intelligence save for half.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 18,
+      "a": 0,
+      "b": 18,
+      "pair": "Aberration + Talons",
+      "type": "P",
+      "title": "Psychic Claws",
+      "description": "Permanently gain magical claws dealing 1d8 psychic damage + your attack ability modifier.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 19,
+      "a": 0,
+      "b": 19,
+      "pair": "Aberration + Tree",
+      "type": "N",
+      "title": "Twisted Roots",
+      "description": "Aberrant roots grow through your legs, reducing walking speed by 5 feet. Permanent — Cannot Be Cured.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 20,
+      "a": 0,
+      "b": 20,
+      "pair": "Aberration + Undead",
+      "type": "P",
+      "title": "Spectral Servant",
+      "description": "Summon a Specter for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Specter",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-s#Specter",
+              "pages": [
+                290
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "a": 0,
+      "b": 21,
+      "pair": "Aberration + Void",
+      "type": "P",
+      "title": "Unstable Existence",
+      "description": "Once per Long Rest, as a Bonus Action, become partially incorporeal until the end of your next turn, gaining resistance to bludgeoning, piercing, and slashing damage.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 22,
+      "a": 1,
+      "b": 2,
+      "pair": "Beast + Celestial",
+      "type": "P",
+      "title": "Sacred Wolf",
+      "description": "Summon a Dire Wolf for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Dire Wolf",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#DireWolf",
+              "pages": [
+                352
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "a": 1,
+      "b": 3,
+      "pair": "Beast + Construct",
+      "type": "P",
+      "title": "Living Weapon",
+      "description": "Permanently gain a Flying Sword companion.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "2024 stat-block name: Animated Flying Sword (called Flying Sword in the supplied revision).",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Animated Flying Sword",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-a#AnimatedFlyingSword",
+              "pages": [
+                17
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "a": 1,
+      "b": 4,
+      "pair": "Beast + Corpse",
+      "type": "N",
+      "title": "Scent of Death",
+      "description": "You permanently smell of decay. Disadvantage on Wisdom (Animal Handling) checks; ordinary animals instinctively fear you. Permanent — Cannot Be Cured.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 25,
+      "a": 1,
+      "b": 5,
+      "pair": "Beast + Dragon",
+      "type": "E",
+      "title": "Draconic Predator",
+      "description": "Once per Long Rest, transform for 1 minute, gaining 40-foot flight, magical claws dealing 2d6 slashing + your attack modifier, and resistance to one elemental damage type chosen when activated.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 26,
+      "a": 1,
+      "b": 6,
+      "pair": "Beast + Elemental",
+      "type": "P",
+      "title": "Living Ember",
+      "description": "Summon a Magmin for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Magmin",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-m#Magmin",
+              "pages": [
+                200
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "a": 1,
+      "b": 7,
+      "pair": "Beast + Euryale",
+      "type": "P",
+      "title": "Venomous Fangs",
+      "description": "Permanently gain a magical bite dealing 1d6 piercing + 1d6 poison + your attack modifier, usable once on each of your turns.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 28,
+      "a": 1,
+      "b": 8,
+      "pair": "Beast + Fey",
+      "type": "P",
+      "title": "Fey Companion",
+      "description": "Permanently gain a Sprite familiar.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Sprite",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-s#Sprite",
+              "pages": [
+                298
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "a": 1,
+      "b": 9,
+      "pair": "Beast + Fiend",
+      "type": "N",
+      "title": "Hound of Hell",
+      "description": "A hostile Hell Hound appears 30 feet away and rolls Initiative. Defeating or escaping it resolves the immediate encounter; Remove Curse ends any continuing supernatural pursuit.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        },
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Hell Hound",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-h#HellHound",
+              "pages": [
+                165
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "a": 1,
+      "b": 10,
+      "pair": "Beast + Giant",
+      "type": "P",
+      "title": "Dire Beast",
+      "description": "Once per Long Rest, transform into a Dire Wolf for 1 minute, using its published physical statistics and actions while retaining your mental ability scores.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Dire Wolf",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#DireWolf",
+              "pages": [
+                352
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "a": 1,
+      "b": 11,
+      "pair": "Beast + Humanoid",
+      "type": "E",
+      "title": "Beastshape",
+      "description": "Once per Long Rest, cast Polymorph on yourself, limited to a Beast of CR 1 or lower. Normal concentration rules apply.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Polymorph",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                306
+              ],
+              "book": "phb"
+            }
+          ]
+        },
+        {
+          "title": "Creature choices",
+          "links": [
+            {
+              "label": "Monster Manual animal stat blocks",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024#IndexofStatBlocks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "a": 1,
+      "b": 12,
+      "pair": "Beast + Jester",
+      "type": "P",
+      "title": "Unpredictable Pet",
+      "description": "Permanently gain a randomly selected familiar: Cat, Rat, Bat, Owl, Raven, Frog, or Lizard (roll 1d7).",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Bat",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#Bat",
+              "pages": [
+                349
+              ]
+            },
+            {
+              "label": "Cat",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#Cat",
+              "pages": [
+                351
+              ]
+            },
+            {
+              "label": "Rat",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#Rat",
+              "pages": [
+                367
+              ]
+            },
+            {
+              "label": "Owl",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#Owl",
+              "pages": [
+                366
+              ]
+            },
+            {
+              "label": "Raven",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#Raven",
+              "pages": [
+                368
+              ]
+            },
+            {
+              "label": "Frog",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#Frog",
+              "pages": [
+                354
+              ]
+            },
+            {
+              "label": "Lizard",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#Lizard",
+              "pages": [
+                364
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "a": 1,
+      "b": 13,
+      "pair": "Beast + Moon",
+      "type": "P",
+      "title": "Predator's Senses",
+      "description": "Permanently gain advantage on Wisdom (Perception) checks relying on hearing or smell.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 34,
+      "a": 1,
+      "b": 14,
+      "pair": "Beast + Monstrosity",
+      "type": "N",
+      "title": "Bestial Deformity",
+      "description": "Your body develops grotesque animalistic features. Disadvantage on all Charisma ability checks until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "a": 1,
+      "b": 15,
+      "pair": "Beast + Ooze",
+      "type": "P",
+      "title": "Acidic Predator",
+      "description": "Once per Long Rest, gain acid resistance and magical unarmed strikes dealing 1d8 acid + your attack modifier for 1 minute.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 36,
+      "a": 1,
+      "b": 16,
+      "pair": "Beast + Plant",
+      "type": "P",
+      "title": "Tangled Guardian",
+      "description": "Summon a Vine Blight for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Vine Blight",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-b#VineBlight",
+              "pages": [
+                44
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "a": 1,
+      "b": 17,
+      "pair": "Beast + Skull",
+      "type": "E",
+      "title": "Spectral Wolf",
+      "description": "Once per Long Rest, transform for 1 minute, gaining necrotic resistance and magical claws dealing 2d6 slashing + your attack modifier. Once during the transformation, use a Magic action to force creatures of your choice within 15 feet to make a Wisdom save or become Frightened until the end of your next turn.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Frightened",
+              "pages": [
+                367
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "a": 1,
+      "b": 18,
+      "pair": "Beast + Talons",
+      "type": "P",
+      "title": "Predator's Claws",
+      "description": "Permanently gain magical claws dealing 1d8 slashing + your attack modifier and a climbing speed equal to walking speed.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 39,
+      "a": 1,
+      "b": 19,
+      "pair": "Beast + Tree",
+      "type": "N",
+      "title": "Wooden Limbs",
+      "description": "Your limbs permanently stiffen into wood, reducing walking speed by 5 feet. Permanent — Cannot Be Cured.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 40,
+      "a": 1,
+      "b": 20,
+      "pair": "Beast + Undead",
+      "type": "P",
+      "title": "Skeletal Mount",
+      "description": "Summon a Warhorse Skeleton for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Warhorse Skeleton",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-s#WarhorseSkeleton",
+              "pages": [
+                282
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "a": 1,
+      "b": 21,
+      "pair": "Beast + Void",
+      "type": "P",
+      "title": "Night Companion",
+      "description": "Permanently gain a Bat familiar.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Bat",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#Bat",
+              "pages": [
+                349
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "a": 2,
+      "b": 3,
+      "pair": "Celestial + Construct",
+      "type": "P",
+      "title": "Divine Guardian",
+      "description": "Summon an Animated Armor for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Animated Armor",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-a#AnimatedArmor",
+              "pages": [
+                16
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "a": 2,
+      "b": 4,
+      "pair": "Celestial + Corpse",
+      "type": "E",
+      "title": "Second Chance",
+      "description": "Once per Long Rest, as a Bonus Action, gain Temporary HP equal to 1d4 per character level + Proficiency Bonus. For 1 minute, while at least 1 of these Temporary HP remains, you can deal additional radiant damage when you hit a creature with an attack once per combat round, on your own turn only. This damage is 1d6 at levels 1–4, 2d6 at levels 5–10, and 3d6 at levels 11–20. The damage effect ends after 1 minute or when these Temporary HP are depleted. Remaining Temporary HP follow normal rules.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 44,
+      "a": 2,
+      "b": 5,
+      "pair": "Celestial + Dragon",
+      "type": "N",
+      "title": "Celestial Judgment",
+      "description": "A blazing divine brand appears. You have disadvantage on all saving throws until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "a": 2,
+      "b": 6,
+      "pair": "Celestial + Elemental",
+      "type": "P",
+      "title": "Radiant Servant",
+      "description": "Summon a Dust Mephit for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Dust Mephit",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-m#DustMephit",
+              "pages": [
+                206
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "a": 2,
+      "b": 7,
+      "pair": "Celestial + Euryale",
+      "type": "P",
+      "title": "Purifying Light",
+      "description": "Permanently gain advantage on saving throws against petrification. Once per Long Rest, become immune to the Poisoned condition for 1 minute.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Poisoned",
+              "pages": [
+                372
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "a": 2,
+      "b": 8,
+      "pair": "Celestial + Fey",
+      "type": "P",
+      "title": "Blessed Sprite",
+      "description": "Permanently gain a Sprite familiar.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Sprite",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-s#Sprite",
+              "pages": [
+                298
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "a": 2,
+      "b": 9,
+      "pair": "Celestial + Fiend",
+      "type": "P",
+      "title": "Divine Balance",
+      "description": "Permanently gain resistance to fire or radiant damage, chosen when received.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 49,
+      "a": 2,
+      "b": 10,
+      "pair": "Celestial + Giant",
+      "type": "P",
+      "title": "Radiant Colossus",
+      "description": "Once per Long Rest, become Large for 1 minute, gaining 10 Temporary HP and 10-foot melee reach.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 50,
+      "a": 2,
+      "b": 11,
+      "pair": "Celestial + Humanoid",
+      "type": "N",
+      "title": "Brand of Truth",
+      "description": "A celestial symbol burns into your flesh. Permanently gain vulnerability to necrotic and radiant damage. Permanent — Cannot Be Cured.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 51,
+      "a": 2,
+      "b": 12,
+      "pair": "Celestial + Jester",
+      "type": "E",
+      "title": "Merciful Trickster",
+      "description": "Permanently gain a Sprite familiar. Also cast Cure Wounds at 2nd level once per Long Rest without expending a spell slot.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Cure Wounds",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                259
+              ],
+              "book": "phb"
+            }
+          ]
+        },
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Sprite",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-s#Sprite",
+              "pages": [
+                298
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "a": 2,
+      "b": 13,
+      "pair": "Celestial + Moon",
+      "type": "P",
+      "title": "Moonlit Sanctuary",
+      "description": "Once per Long Rest, radiate silvery moonlight for 1 minute. Allies within 10 feet have advantage on saving throws against being Frightened.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Frightened",
+              "pages": [
+                367
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "a": 2,
+      "b": 14,
+      "pair": "Celestial + Monstrosity",
+      "type": "P",
+      "title": "Heavenly Steed",
+      "description": "Summon a Giant Eagle for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Giant Eagle",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#GiantEagle",
+              "pages": [
+                356
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "a": 2,
+      "b": 15,
+      "pair": "Celestial + Ooze",
+      "type": "N",
+      "title": "Corrupted Healing",
+      "description": "Whenever a spell restores HP to you, reduce the healing by 2 HP per level of the spell slot expended, minimum 0. Healing that doesn't expend a spell slot is unaffected. Ends with Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "a": 2,
+      "b": 16,
+      "pair": "Celestial + Plant",
+      "type": "P",
+      "title": "Healing Blossom",
+      "description": "Once per Long Rest, conjure a radiant flower. As a Magic action, touch a creature to restore 2d8 HP.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 56,
+      "a": 2,
+      "b": 17,
+      "pair": "Celestial + Skull",
+      "type": "P",
+      "title": "Defiance of Death",
+      "description": "Once per Long Rest, gain necrotic resistance and immunity to the Frightened condition for 1 minute.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Frightened",
+              "pages": [
+                367
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "a": 2,
+      "b": 18,
+      "pair": "Celestial + Talons",
+      "type": "E",
+      "title": "Angelic Wings",
+      "description": "Once per Long Rest, sprout radiant wings for 1 minute, gaining a 60-foot flying speed and an additional 1d6 radiant damage on one successful attack each turn.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 58,
+      "a": 2,
+      "b": 19,
+      "pair": "Celestial + Tree",
+      "type": "P",
+      "title": "Sacred Grove Guardian",
+      "description": "Summon a Dryad for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Dryad",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-d#Dryad",
+              "pages": [
+                107
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "a": 2,
+      "b": 20,
+      "pair": "Celestial + Undead",
+      "type": "N",
+      "title": "Beacon of the Dead",
+      "description": "Undead creatures instinctively sense your presence within 60 feet, even when you are Hidden, until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "a": 2,
+      "b": 21,
+      "pair": "Celestial + Void",
+      "type": "P",
+      "title": "Light Against Darkness",
+      "description": "Once per Long Rest, gain resistance to necrotic and psychic damage for 1 minute.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 61,
+      "a": 3,
+      "b": 4,
+      "pair": "Construct + Corpse",
+      "type": "P",
+      "title": "Reanimated Servitor",
+      "description": "Summon a Ghoul for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Ghoul",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-g#Ghoul",
+              "pages": [
+                132
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "a": 3,
+      "b": 5,
+      "pair": "Construct + Dragon",
+      "type": "P",
+      "title": "Dragon Companion",
+      "description": "Permanently gain a Pseudodragon familiar.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Pseudodragon",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-p#Pseudodragon",
+              "pages": [
+                249
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "a": 3,
+      "b": 6,
+      "pair": "Construct + Elemental",
+      "type": "E",
+      "title": "Stone Guardian",
+      "description": "Summon a Gargoyle for 10 minutes, once per Long Rest. It disappears immediately if you become Incapacitated.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Gargoyle",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-g#Gargoyle",
+              "pages": [
+                128
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Incapacitated",
+              "pages": [
+                369
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "a": 3,
+      "b": 7,
+      "pair": "Construct + Euryale",
+      "type": "N",
+      "title": "Stonebound Flesh",
+      "description": "Your skin hardens into stone. Suffer a −1 penalty to Dexterity saving throws and reduce walking speed by 10 feet until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 65,
+      "a": 3,
+      "b": 8,
+      "pair": "Construct + Fey",
+      "type": "P",
+      "title": "Enchanted Automaton",
+      "description": "Permanently gain a Sprite familiar.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Sprite",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-s#Sprite",
+              "pages": [
+                298
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 66,
+      "a": 3,
+      "b": 9,
+      "pair": "Construct + Fiend",
+      "type": "P",
+      "title": "Infernal Sentinel",
+      "description": "Summon an Imp for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Imp",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-i#Imp",
+              "pages": [
+                177
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "a": 3,
+      "b": 10,
+      "pair": "Construct + Giant",
+      "type": "P",
+      "title": "Living Golem",
+      "description": "Once per Long Rest, gain a golem-like appearance for 1 minute, 15 Temporary HP, and advantage on Strength checks.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 68,
+      "a": 3,
+      "b": 11,
+      "pair": "Construct + Humanoid",
+      "type": "P",
+      "title": "Artificial Identity",
+      "description": "Once per Long Rest, cast Disguise Self to resemble a Humanoid or Construct within the spell's normal limitations.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Disguise Self",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                262,
+                263
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "a": 3,
+      "b": 12,
+      "pair": "Construct + Jester",
+      "type": "N",
+      "title": "Clockwork Parasite",
+      "description": "Permanently reduce your maximum number of attuned magic items by one. Immediately unattune an item if necessary. Permanent — Cannot Be Cured.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 70,
+      "a": 3,
+      "b": 13,
+      "pair": "Construct + Moon",
+      "type": "E",
+      "title": "Living Armor",
+      "description": "Once per Long Rest, gain +2 AC, resistance to bludgeoning damage from nonmagical attacks, and immunity to being Frightened for 1 minute.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Frightened",
+              "pages": [
+                367
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 71,
+      "a": 3,
+      "b": 14,
+      "pair": "Construct + Monstrosity",
+      "type": "P",
+      "title": "Mechanical Basilisk",
+      "description": "Summon a Basilisk for 1 minute, once per Long Rest. Its mechanical appearance is cosmetic.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Basilisk",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-b#Basilisk",
+              "pages": [
+                32
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "a": 3,
+      "b": 15,
+      "pair": "Construct + Ooze",
+      "type": "P",
+      "title": "Liquid Metal",
+      "description": "Permanently gain a flexible metallic limb. Once on each of your turns, increase the reach of one melee attack by 5 feet.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 73,
+      "a": 3,
+      "b": 16,
+      "pair": "Construct + Plant",
+      "type": "P",
+      "title": "Living Sapling",
+      "description": "Permanently gain an Awakened Shrub companion.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Awakened Shrub",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-a#AwakenedShrub",
+              "pages": [
+                23
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "a": 3,
+      "b": 17,
+      "pair": "Construct + Skull",
+      "type": "N",
+      "title": "Metallic Skeleton",
+      "description": "Your bones become unnaturally dense, reducing maximum HP by 10 until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "a": 3,
+      "b": 18,
+      "pair": "Construct + Talons",
+      "type": "P",
+      "title": "Steel Claws",
+      "description": "Permanently gain retractable magical metal claws dealing 1d8 slashing + your attack ability modifier.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 76,
+      "a": 3,
+      "b": 19,
+      "pair": "Construct + Tree",
+      "type": "P",
+      "title": "Animated Roots",
+      "description": "Summon a Vine Blight for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Vine Blight",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-b#VineBlight",
+              "pages": [
+                44
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "a": 3,
+      "b": 20,
+      "pair": "Construct + Undead",
+      "type": "E",
+      "title": "Undying Construct",
+      "description": "Permanently gain a Ghoul companion. It can be resummoned after a Long Rest if destroyed or dismissed by Incapacitation.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Ghoul",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-g#Ghoul",
+              "pages": [
+                132
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "a": 3,
+      "b": 21,
+      "pair": "Construct + Void",
+      "type": "P",
+      "title": "Phase Mechanism",
+      "description": "Once per Long Rest, become partially intangible until the end of your next turn. Move through creatures and objects as difficult terrain. If you end inside an object, you are shunted to the nearest unoccupied space and take 1d10 force damage.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 79,
+      "a": 4,
+      "b": 5,
+      "pair": "Corpse + Dragon",
+      "type": "N",
+      "title": "Draconic Rot",
+      "description": "Necromantic scales spread across your body. Maximum HP decreases by 10 until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "a": 4,
+      "b": 6,
+      "pair": "Corpse + Elemental",
+      "type": "P",
+      "title": "Grave Dust",
+      "description": "Summon a Dust Mephit for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Dust Mephit",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-m#DustMephit",
+              "pages": [
+                206
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "a": 4,
+      "b": 7,
+      "pair": "Corpse + Euryale",
+      "type": "P",
+      "title": "Deathly Gaze",
+      "description": "Once per Long Rest, as a Magic action, force a creature within 30 feet to make a Constitution save or become Poisoned for 1 minute. Repeat the save at the end of each turn.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Poisoned",
+              "pages": [
+                372
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "a": 4,
+      "b": 8,
+      "pair": "Corpse + Fey",
+      "type": "P",
+      "title": "Graveyard Sprite",
+      "description": "Permanently gain a Sprite familiar.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Sprite",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-s#Sprite",
+              "pages": [
+                298
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "a": 4,
+      "b": 9,
+      "pair": "Corpse + Fiend",
+      "type": "E",
+      "title": "Death-Fiend Transformation",
+      "description": "Once per Long Rest, transform for 1 minute, gaining fire and necrotic resistance and magical unarmed strikes dealing 2d8 necrotic + your attack ability modifier.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 84,
+      "a": 4,
+      "b": 10,
+      "pair": "Corpse + Giant",
+      "type": "N",
+      "title": "Corpse Weight",
+      "description": "Your body becomes unnaturally heavy, reducing walking speed by 10 feet until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "a": 4,
+      "b": 11,
+      "pair": "Corpse + Humanoid",
+      "type": "P",
+      "title": "Face of the Dead",
+      "description": "Once per Long Rest, cast Disguise Self to appear as a deceased Humanoid you have seen, within the spell's normal limitations.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Disguise Self",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                262,
+                263
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 86,
+      "a": 4,
+      "b": 12,
+      "pair": "Corpse + Jester",
+      "type": "P",
+      "title": "Crawling Trickster",
+      "description": "Permanently gain a Crawling Claw companion.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Crawling Claw",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-c#CrawlingClaw",
+              "pages": [
+                83
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 87,
+      "a": 4,
+      "b": 13,
+      "pair": "Corpse + Moon",
+      "type": "P",
+      "title": "Deathly Moonlight",
+      "description": "Once per Long Rest, gain necrotic resistance for 1 minute.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 88,
+      "a": 4,
+      "b": 14,
+      "pair": "Corpse + Monstrosity",
+      "type": "P",
+      "title": "Graveborn Hunter",
+      "description": "Summon a Ghoul for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Ghoul",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-g#Ghoul",
+              "pages": [
+                132
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "a": 4,
+      "b": 15,
+      "pair": "Corpse + Ooze",
+      "type": "N",
+      "title": "Liquefying Flesh",
+      "description": "Your flesh loses cohesion. AC decreases by 1 regardless of armor worn until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "a": 4,
+      "b": 16,
+      "pair": "Corpse + Plant",
+      "type": "E",
+      "title": "Fungal Regeneration",
+      "description": "Once per Long Rest, grow regenerative fungi for 1 minute. At the start of each turn while above 0 HP, regain 5 HP.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 91,
+      "a": 4,
+      "b": 17,
+      "pair": "Corpse + Skull",
+      "type": "P",
+      "title": "Voice Beyond Death",
+      "description": "Cast Speak with Dead once per Long Rest without a spell slot.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Speak with Dead",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                318,
+                319
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "a": 4,
+      "b": 18,
+      "pair": "Corpse + Talons",
+      "type": "P",
+      "title": "Skeletal Claws",
+      "description": "Permanently gain magical claws dealing 1d8 necrotic + your attack ability modifier.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 93,
+      "a": 4,
+      "b": 19,
+      "pair": "Corpse + Tree",
+      "type": "P",
+      "title": "Grave Roots",
+      "description": "Summon a Vine Blight for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Vine Blight",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-b#VineBlight",
+              "pages": [
+                44
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 94,
+      "a": 4,
+      "b": 20,
+      "pair": "Corpse + Undead",
+      "type": "N",
+      "title": "Sun's Judgment",
+      "description": "Gain vulnerability to radiant damage until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "a": 4,
+      "b": 21,
+      "pair": "Corpse + Void",
+      "type": "P",
+      "title": "Wandering Spirit",
+      "description": "Once per Long Rest, assume a ghostly appearance for 1 minute, gaining necrotic resistance and the ability to hover up to 10 feet above the ground.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 96,
+      "a": 5,
+      "b": 6,
+      "pair": "Dragon + Elemental",
+      "type": "P",
+      "title": "Draconic Breath",
+      "description": "Once per Long Rest, as a Magic action, exhale a 15-foot cone dealing 3d6 acid, cold, fire, lightning, or poison damage, chosen when received. Dexterity save for half.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 97,
+      "a": 5,
+      "b": 7,
+      "pair": "Dragon + Euryale",
+      "type": "E",
+      "title": "Basilisk Dragon",
+      "description": "Once per Long Rest, transform for 1 minute, gaining magical 2d6 slashing claws. Once during the transformation, as a Magic action, force a creature within 30 feet to make a Constitution save or become Restrained until the end of your next turn.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Restrained",
+              "pages": [
+                373
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 98,
+      "a": 5,
+      "b": 8,
+      "pair": "Dragon + Fey",
+      "type": "P",
+      "title": "Faerie Dragon Companion",
+      "description": "Permanently gain a Faerie Dragon companion.",
+      "notes": "",
+      "review": true,
+      "referenceNote": "Select the Faerie Dragon Adult or Faerie Dragon Youth stat block with your DM before play. Revision 5 does not specify the variant.",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Faerie Dragon Adult",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-f#FaerieDragonAdult",
+              "pages": [
+                117
+              ]
+            },
+            {
+              "label": "Faerie Dragon Youth",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-f#FaerieDragonYouth",
+              "pages": [
+                117
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 99,
+      "a": 5,
+      "b": 9,
+      "pair": "Dragon + Fiend",
+      "type": "N",
+      "title": "Infernal Bloodline",
+      "description": "Involuntarily become an Abyssal Tiefling with draconic features. Replace your species traits with 2024 Abyssal Tiefling traits, retaining class, background, ability scores, feats, proficiencies, and equipment. Ends with Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 100,
+      "a": 5,
+      "b": 10,
+      "pair": "Dragon + Giant",
+      "type": "P",
+      "title": "Dragon Giant",
+      "description": "Once per Long Rest, become Large for 1 minute, gaining 15 Temporary HP and 10-foot melee reach.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 101,
+      "a": 5,
+      "b": 11,
+      "pair": "Dragon + Humanoid",
+      "type": "P",
+      "title": "Dragon Scales",
+      "description": "Once per Long Rest, grow protective scales for 1 minute, increasing AC by 1.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 102,
+      "a": 5,
+      "b": 12,
+      "pair": "Dragon + Jester",
+      "type": "P",
+      "title": "Mischievous Dragon",
+      "description": "Permanently gain a Pseudodragon familiar.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Pseudodragon",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-p#Pseudodragon",
+              "pages": [
+                249
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 103,
+      "a": 5,
+      "b": 13,
+      "pair": "Dragon + Moon",
+      "type": "E",
+      "title": "Lunar Dragon Hybrid",
+      "description": "Once per Long Rest, transform for 1 minute, gaining 40-foot flight, magical 2d6 slashing claws, and resistance to one chosen type: acid, cold, fire, lightning, or poison. Once during the transformation, unleash a 15-foot cone dealing 4d6 damage of that type, Dexterity save for half.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 104,
+      "a": 5,
+      "b": 14,
+      "pair": "Dragon + Monstrosity",
+      "type": "N",
+      "title": "Dragonborn Curse",
+      "description": "Involuntarily become a Green Dragonborn with poison ancestry. Replace your species traits with the corresponding 2024 Dragonborn traits, retaining class, background, ability scores, feats, proficiencies, and equipment. Ends with Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 105,
+      "a": 5,
+      "b": 15,
+      "pair": "Dragon + Ooze",
+      "type": "P",
+      "title": "Acid Dragon",
+      "description": "Permanently gain acid resistance. Once per Long Rest, as a Magic action, spit acid at a creature within 30 feet, dealing 2d8 acid damage on a failed Dexterity save, half on success.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 106,
+      "a": 5,
+      "b": 16,
+      "pair": "Dragon + Plant",
+      "type": "P",
+      "title": "Thorn Dragon's Servant",
+      "description": "Summon a Vine Blight for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Vine Blight",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-b#VineBlight",
+              "pages": [
+                44
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 107,
+      "a": 5,
+      "b": 17,
+      "pair": "Dragon + Skull",
+      "type": "P",
+      "title": "Draconic Remains",
+      "description": "Permanently gain a Crawling Claw companion.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Crawling Claw",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-c#CrawlingClaw",
+              "pages": [
+                83
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 108,
+      "a": 5,
+      "b": 18,
+      "pair": "Dragon + Talons",
+      "type": "P",
+      "title": "Dragon Talons",
+      "description": "Permanently gain magical draconic claws dealing 1d10 slashing + your attack ability modifier.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 109,
+      "a": 5,
+      "b": 19,
+      "pair": "Dragon + Tree",
+      "type": "N",
+      "title": "Flammable Scales",
+      "description": "Your skin develops brittle bark-like scales. Gain vulnerability to fire damage until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 110,
+      "a": 5,
+      "b": 20,
+      "pair": "Dragon + Undead",
+      "type": "E",
+      "title": "Servant of the Dead Dragon",
+      "description": "Summon a Wight for 1 minute, once per Long Rest. It disappears immediately if you become Incapacitated.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Wight",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-w#Wight",
+              "pages": [
+                332
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Incapacitated",
+              "pages": [
+                369
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 111,
+      "a": 5,
+      "b": 21,
+      "pair": "Dragon + Void",
+      "type": "P",
+      "title": "Shadow Dragon's Gift",
+      "description": "Once per Long Rest, gain necrotic resistance for 1 minute. Permanently gain 30-foot Darkvision or increase existing Darkvision by 30 feet.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 112,
+      "a": 6,
+      "b": 7,
+      "pair": "Elemental + Euryale",
+      "type": "P",
+      "title": "Spectral Tendrils",
+      "description": "Once per Long Rest, as a Magic action, ghostly serpentine tendrils burst from your chest, shoulders, and arms and wrap around a creature within 5 feet. The target makes a Constitution save or becomes Restrained until the end of your next turn.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Restrained",
+              "pages": [
+                373
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 113,
+      "a": 6,
+      "b": 8,
+      "pair": "Elemental + Fey",
+      "type": "P",
+      "title": "Elemental Trickster",
+      "description": "Summon a Dust Mephit for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Dust Mephit",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-m#DustMephit",
+              "pages": [
+                206
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 114,
+      "a": 6,
+      "b": 9,
+      "pair": "Elemental + Fiend",
+      "type": "N",
+      "title": "Elemental Weakness",
+      "description": "Randomly determine acid, cold, fire, lightning, or thunder. Gain vulnerability to that damage type until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 115,
+      "a": 6,
+      "b": 10,
+      "pair": "Elemental + Giant",
+      "type": "P",
+      "title": "Elemental Colossus",
+      "description": "Once per Long Rest, transform for 1 minute, gaining 10 Temporary HP and an extra 1d6 acid, cold, fire, lightning, or thunder damage on one successful attack each turn. Choose the type when activated.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 116,
+      "a": 6,
+      "b": 11,
+      "pair": "Elemental + Humanoid",
+      "type": "E",
+      "title": "Elemental Body",
+      "description": "Once per Long Rest, transform for 1 minute. Choose resistance to acid, cold, fire, lightning, or thunder, and either a 30-foot flying speed or a 30-foot burrowing speed through loose earth.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 117,
+      "a": 6,
+      "b": 12,
+      "pair": "Elemental + Jester",
+      "type": "P",
+      "title": "Elemental Familiar",
+      "description": "Permanently gain a Mephit companion. Roll 1d4 when received: Dust, Ice, Magma, or Steam Mephit.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Dust Mephit",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-m#DustMephit",
+              "pages": [
+                206
+              ]
+            },
+            {
+              "label": "Ice Mephit",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-m#IceMephit",
+              "pages": [
+                206
+              ]
+            },
+            {
+              "label": "Magma Mephit",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-m#MagmaMephit",
+              "pages": [
+                207
+              ]
+            },
+            {
+              "label": "Steam Mephit",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-m#SteamMephit",
+              "pages": [
+                208
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 118,
+      "a": 6,
+      "b": 13,
+      "pair": "Elemental + Moon",
+      "type": "P",
+      "title": "Lunar Frost",
+      "description": "Once per Long Rest, surround yourself with freezing moonlight for 1 minute. Gain cold resistance; creatures that hit you with melee attacks from within 5 feet take 1d6 cold damage.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 119,
+      "a": 6,
+      "b": 14,
+      "pair": "Elemental + Monstrosity",
+      "type": "N",
+      "title": "Unstable Elements",
+      "description": "At the end of each Long Rest, take 1d6 randomly determined acid, cold, fire, lightning, or thunder damage, ignoring resistance and immunity. Ends with Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 120,
+      "a": 6,
+      "b": 15,
+      "pair": "Elemental + Ooze",
+      "type": "P",
+      "title": "Acidic Elemental",
+      "description": "Once per Long Rest, gain acid resistance and magical unarmed strikes dealing 1d8 acid + your attack ability modifier for 1 minute.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 121,
+      "a": 6,
+      "b": 16,
+      "pair": "Elemental + Plant",
+      "type": "P",
+      "title": "Elemental Vegetation",
+      "description": "Summon a Vine Blight for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Vine Blight",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-b#VineBlight",
+              "pages": [
+                44
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 122,
+      "a": 6,
+      "b": 17,
+      "pair": "Elemental + Skull",
+      "type": "P",
+      "title": "Dustbound Spirit",
+      "description": "Permanently gain a Dust Mephit companion.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Dust Mephit",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-m#DustMephit",
+              "pages": [
+                206
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 123,
+      "a": 6,
+      "b": 18,
+      "pair": "Elemental + Talons",
+      "type": "E",
+      "title": "Elemental Talons",
+      "description": "Once per Long Rest, grow magical claws for 1 minute, dealing 2d6 + your attack ability modifier of a chosen damage type: acid, cold, fire, lightning, or thunder. Gain resistance to that type for the duration.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 124,
+      "a": 6,
+      "b": 19,
+      "pair": "Elemental + Tree",
+      "type": "N",
+      "title": "Crystalline Bones",
+      "description": "Your bones become brittle and crystalline. Maximum HP decreases by 5 until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 125,
+      "a": 6,
+      "b": 20,
+      "pair": "Elemental + Undead",
+      "type": "P",
+      "title": "Restless Element",
+      "description": "Summon a Specter for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Specter",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-s#Specter",
+              "pages": [
+                290
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 126,
+      "a": 6,
+      "b": 21,
+      "pair": "Elemental + Void",
+      "type": "P",
+      "title": "Void Elemental",
+      "description": "Once per Long Rest, transform for 1 minute, gaining force resistance and a 20-foot flying speed (hover).",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 127,
+      "a": 7,
+      "b": 8,
+      "pair": "Euryale + Fey",
+      "type": "P",
+      "title": "Serpent Whisperer",
+      "description": "Permanently communicate simple ideas to snakes and gain advantage on Wisdom (Animal Handling) checks involving snakes.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 128,
+      "a": 7,
+      "b": 9,
+      "pair": "Euryale + Fiend",
+      "type": "P",
+      "title": "Infernal Venom",
+      "description": "Once per Long Rest, make a magical bite attack dealing 1d6 piercing + 2d6 poison + your attack ability modifier.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 129,
+      "a": 7,
+      "b": 10,
+      "pair": "Euryale + Giant",
+      "type": "N",
+      "title": "Serpentine Curse",
+      "description": "Your lower body transforms into a heavy serpent tail, reducing walking speed by 10 feet until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 130,
+      "a": 7,
+      "b": 11,
+      "pair": "Euryale + Humanoid",
+      "type": "E",
+      "title": "Medusa Transformation",
+      "description": "Once per Long Rest, transform into a Medusa-like form for 1 minute, gaining poison resistance. As a Magic action, target a creature within 30 feet that can see you. On a failed Constitution save, it becomes Restrained. A second failed save at the end of its next turn Petrifies it for up to 1 minute. It repeats the save at the end of subsequent turns, ending the effect on success.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Restrained",
+              "pages": [
+                373
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 131,
+      "a": 7,
+      "b": 12,
+      "pair": "Euryale + Jester",
+      "type": "P",
+      "title": "Serpent Companion",
+      "description": "Permanently gain a Poisonous Snake familiar.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "2024 stat-block name: Venomous Snake (called Poisonous Snake in the supplied revision).",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Venomous Snake",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#VenomousSnake",
+              "pages": [
+                372
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 132,
+      "a": 7,
+      "b": 13,
+      "pair": "Euryale + Moon",
+      "type": "P",
+      "title": "Lunar Serpent",
+      "description": "Once per Long Rest, develop serpentine features for 1 minute, gaining climbing speed equal to walking speed and advantage on Dexterity (Stealth) checks.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 133,
+      "a": 7,
+      "b": 14,
+      "pair": "Euryale + Monstrosity",
+      "type": "P",
+      "title": "Petrifying Guardian",
+      "description": "Summon a Basilisk for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Basilisk",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-b#Basilisk",
+              "pages": [
+                32
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 134,
+      "a": 7,
+      "b": 15,
+      "pair": "Euryale + Ooze",
+      "type": "N",
+      "title": "Slippery Scales",
+      "description": "Your skin becomes covered in unpleasant, slimy scales. Disadvantage on Charisma (Persuasion) checks against unfamiliar Humanoids. Permanent — Cannot Be Cured.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 135,
+      "a": 7,
+      "b": 16,
+      "pair": "Euryale + Plant",
+      "type": "P",
+      "title": "Venomous Vine",
+      "description": "Once per Long Rest, as a Magic action, conjure a vine that strikes a creature within 10 feet, dealing 2d6 poison damage on a failed Constitution save, half on success.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 136,
+      "a": 7,
+      "b": 17,
+      "pair": "Euryale + Skull",
+      "type": "E",
+      "title": "Death Medusa",
+      "description": "Once per Long Rest, transform for 1 minute, gaining necrotic resistance. Once during the transformation, as a Magic action, target a creature within 30 feet that can see you. It makes a Constitution save or becomes Paralyzed until the end of its next turn.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Paralyzed",
+              "pages": [
+                371
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 137,
+      "a": 7,
+      "b": 18,
+      "pair": "Euryale + Talons",
+      "type": "P",
+      "title": "Serpent Claws",
+      "description": "Permanently gain magical venomous claws dealing 1d6 slashing + 1d4 poison + your attack ability modifier.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 138,
+      "a": 7,
+      "b": 19,
+      "pair": "Euryale + Tree",
+      "type": "P",
+      "title": "Serpent Vines",
+      "description": "Summon a Vine Blight for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Vine Blight",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-b#VineBlight",
+              "pages": [
+                44
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 139,
+      "a": 7,
+      "b": 20,
+      "pair": "Euryale + Undead",
+      "type": "N",
+      "title": "Petrifying Blood",
+      "description": "Your blood thickens into stone. Suffer a −1 penalty to Dexterity ability checks, Dexterity saving throws, and attack rolls using Dexterity until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 140,
+      "a": 7,
+      "b": 21,
+      "pair": "Euryale + Void",
+      "type": "P",
+      "title": "Shadow Serpent",
+      "description": "Permanently gain a Poisonous Snake familiar.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "2024 stat-block name: Venomous Snake (called Poisonous Snake in the supplied revision).",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Venomous Snake",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#VenomousSnake",
+              "pages": [
+                372
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 141,
+      "a": 8,
+      "b": 9,
+      "pair": "Fey + Fiend",
+      "type": "P",
+      "title": "Infernal Trickster",
+      "description": "Permanently gain an Imp familiar.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Imp",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-i#Imp",
+              "pages": [
+                177
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 142,
+      "a": 8,
+      "b": 10,
+      "pair": "Fey + Giant",
+      "type": "P",
+      "title": "Fey Giant",
+      "description": "Once per Long Rest, become Large for 1 minute, gaining 10-foot melee reach and advantage on Charisma ability checks.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 143,
+      "a": 8,
+      "b": 11,
+      "pair": "Fey + Humanoid",
+      "type": "E",
+      "title": "Fey Shapeshifting",
+      "description": "Once per Long Rest, cast Polymorph on yourself, limited to a Beast of CR 2 or lower. Normal concentration rules apply.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Polymorph",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                306
+              ],
+              "book": "phb"
+            }
+          ]
+        },
+        {
+          "title": "Creature choices",
+          "links": [
+            {
+              "label": "Monster Manual animal stat blocks",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024#IndexofStatBlocks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 144,
+      "a": 8,
+      "b": 12,
+      "pair": "Fey + Jester",
+      "type": "N",
+      "title": "Stolen Voice",
+      "description": "A mischievous Fey steals your voice. You cannot speak above a whisper until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 145,
+      "a": 8,
+      "b": 13,
+      "pair": "Fey + Moon",
+      "type": "P",
+      "title": "Moonlit Fey",
+      "description": "Once per Long Rest, take on a shimmering fey appearance for 1 minute. Once during the transformation, teleport up to 30 feet as a Bonus Action to an unoccupied space you can see.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 146,
+      "a": 8,
+      "b": 14,
+      "pair": "Fey + Monstrosity",
+      "type": "P",
+      "title": "Displacer Companion",
+      "description": "Summon a Displacer Beast for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Displacer Beast",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-d#DisplacerBeast",
+              "pages": [
+                98
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 147,
+      "a": 8,
+      "b": 15,
+      "pair": "Fey + Ooze",
+      "type": "P",
+      "title": "Enchanted Ooze",
+      "description": "Permanently gain a Gray Ooze companion.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Gray Ooze",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-g#GrayOoze",
+              "pages": [
+                151
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 148,
+      "a": 8,
+      "b": 16,
+      "pair": "Fey + Plant",
+      "type": "P",
+      "title": "Woodland Ally",
+      "description": "Summon a Dryad for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Dryad",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-d#Dryad",
+              "pages": [
+                107
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 149,
+      "a": 8,
+      "b": 17,
+      "pair": "Fey + Skull",
+      "type": "N",
+      "title": "Fey Enchantment",
+      "description": "You have disadvantage on saving throws against being Charmed until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        },
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Charmed",
+              "pages": [
+                363
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 150,
+      "a": 8,
+      "b": 18,
+      "pair": "Fey + Talons",
+      "type": "P",
+      "title": "Fey Claws",
+      "description": "Once per Long Rest, gain magical claws dealing 1d8 slashing + your attack ability modifier and advantage on Dexterity (Acrobatics) checks for 1 minute.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 151,
+      "a": 8,
+      "b": 19,
+      "pair": "Fey + Tree",
+      "type": "P",
+      "title": "Tree Passage",
+      "description": "Once per Long Rest, as a Bonus Action, enter a living tree within 5 feet and emerge from another living tree you can see within 60 feet. Both trees must be large enough to contain you.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 152,
+      "a": 8,
+      "b": 20,
+      "pair": "Fey + Undead",
+      "type": "P",
+      "title": "Spirit of the Feywild",
+      "description": "Summon a Specter for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Specter",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-s#Specter",
+              "pages": [
+                290
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 153,
+      "a": 8,
+      "b": 21,
+      "pair": "Fey + Void",
+      "type": "P",
+      "title": "Shadow Sprite",
+      "description": "Permanently gain a Sprite familiar.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Sprite",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-s#Sprite",
+              "pages": [
+                298
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 154,
+      "a": 9,
+      "b": 10,
+      "pair": "Fiend + Giant",
+      "type": "N",
+      "title": "Infernal Growth",
+      "description": "Your body grows unnaturally large and awkward. Suffer a −1 penalty to Dexterity saving throws until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 155,
+      "a": 9,
+      "b": 11,
+      "pair": "Fiend + Humanoid",
+      "type": "P",
+      "title": "Devilish Form",
+      "description": "Once per Long Rest, take on a devilish appearance for 1 minute, gaining fire resistance and an additional 1d6 fire damage on one successful attack each turn.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 156,
+      "a": 9,
+      "b": 12,
+      "pair": "Fiend + Jester",
+      "type": "E",
+      "title": "Imp Companion",
+      "description": "Permanently gain an Imp familiar. It can be resummoned after a Long Rest if destroyed or dismissed by Incapacitation.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Imp",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-i#Imp",
+              "pages": [
+                177
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 157,
+      "a": 9,
+      "b": 13,
+      "pair": "Fiend + Moon",
+      "type": "P",
+      "title": "Hellhound Transformation",
+      "description": "Once per Long Rest, take on a fiery wolf-like form for 1 minute, gaining fire resistance and a magical bite dealing 2d6 fire + your attack ability modifier.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 158,
+      "a": 9,
+      "b": 14,
+      "pair": "Fiend + Monstrosity",
+      "type": "P",
+      "title": "Infernal Hunter",
+      "description": "Summon a Hell Hound for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Hell Hound",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-h#HellHound",
+              "pages": [
+                165
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 159,
+      "a": 9,
+      "b": 15,
+      "pair": "Fiend + Ooze",
+      "type": "N",
+      "title": "Sulphurous Corruption",
+      "description": "Your flesh becomes corrupted by infernal slime. Gain vulnerability to radiant damage until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 160,
+      "a": 9,
+      "b": 16,
+      "pair": "Fiend + Plant",
+      "type": "P",
+      "title": "Infernal Vines",
+      "description": "Once per Long Rest, as a Magic action, conjure burning vines around a creature within 10 feet. It makes a Strength save or becomes Grappled (escape DC equals your Deck Save DC) for up to 1 minute. It can use an action to escape.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Grappled",
+              "pages": [
+                367
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 161,
+      "a": 9,
+      "b": 17,
+      "pair": "Fiend + Skull",
+      "type": "P",
+      "title": "Infernal Remnant",
+      "description": "Permanently gain a Crawling Claw companion.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Crawling Claw",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-c#CrawlingClaw",
+              "pages": [
+                83
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 162,
+      "a": 9,
+      "b": 18,
+      "pair": "Fiend + Talons",
+      "type": "P",
+      "title": "Devil's Claws",
+      "description": "Permanently gain magical infernal claws dealing 1d8 slashing + 1d4 fire + your attack ability modifier.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 163,
+      "a": 9,
+      "b": 19,
+      "pair": "Fiend + Tree",
+      "type": "E",
+      "title": "Infernal Treant",
+      "description": "Once per Long Rest, transform into a towering burning tree-like creature for 1 minute. Become Large, gain 15 Temporary HP, fire resistance, and 10-foot melee reach.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 164,
+      "a": 9,
+      "b": 20,
+      "pair": "Fiend + Undead",
+      "type": "N",
+      "title": "Devil's Soul Lien",
+      "description": "Maximum HP decreases by 5 after each Long Rest, to a maximum reduction of 10 HP. Removing the curse restores your original maximum HP.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 165,
+      "a": 9,
+      "b": 21,
+      "pair": "Fiend + Void",
+      "type": "P",
+      "title": "Infernal Darkness",
+      "description": "Once per Long Rest, cast Darkness without a spell slot. You can see normally through the darkness created by this casting. Otherwise follow the spell's normal rules.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Darkness",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                260
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 166,
+      "a": 10,
+      "b": 11,
+      "pair": "Giant + Humanoid",
+      "type": "P",
+      "title": "Giant's Growth",
+      "description": "Once per Long Rest, become Large for 1 minute, gaining advantage on Strength checks and saving throws.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 167,
+      "a": 10,
+      "b": 12,
+      "pair": "Giant + Jester",
+      "type": "P",
+      "title": "Ogre Companion",
+      "description": "Summon an Ogre for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Ogre",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-o#Ogre",
+              "pages": [
+                231
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 168,
+      "a": 10,
+      "b": 13,
+      "pair": "Giant + Moon",
+      "type": "P",
+      "title": "Moon Giant",
+      "description": "Once per Long Rest, become Large for 1 minute, gaining 15 Temporary HP.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 169,
+      "a": 10,
+      "b": 14,
+      "pair": "Giant + Monstrosity",
+      "type": "N",
+      "title": "Unnatural Growth",
+      "description": "Your body grows unevenly. Disadvantage on Dexterity (Stealth) checks, and your original clothing and armor no longer fit comfortably until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 170,
+      "a": 10,
+      "b": 15,
+      "pair": "Giant + Ooze",
+      "type": "E",
+      "title": "Gelatinous Giant",
+      "description": "Once per Long Rest, become Large for 1 minute, gaining 20 Temporary HP, 10-foot melee reach, and acid resistance.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 171,
+      "a": 10,
+      "b": 16,
+      "pair": "Giant + Plant",
+      "type": "P",
+      "title": "Sovereign of Spores",
+      "description": "Once per Long Rest, as a Magic action, summon a Myconid Sovereign in an unoccupied space within 30 feet. It uses its official Monster Manual statistics, is friendly, shares your Initiative, acts immediately after your turn, and obeys verbal commands. It lasts 1 minute, disappearing early if reduced to 0 HP, dismissed, or you become Incapacitated. No concentration required.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Myconid Sovereign",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-m#MyconidSovereign",
+              "pages": [
+                223
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Incapacitated",
+              "pages": [
+                369
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 172,
+      "a": 10,
+      "b": 17,
+      "pair": "Giant + Skull",
+      "type": "P",
+      "title": "Undead Brute",
+      "description": "Summon an Ogre Zombie for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Ogre Zombie",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-z#OgreZombie",
+              "pages": [
+                346
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 173,
+      "a": 10,
+      "b": 18,
+      "pair": "Giant + Talons",
+      "type": "P",
+      "title": "Giant Talons",
+      "description": "Once per Long Rest, grow enormous magical claws for 1 minute, dealing 2d6 slashing + your attack ability modifier.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 174,
+      "a": 10,
+      "b": 19,
+      "pair": "Giant + Tree",
+      "type": "N",
+      "title": "Wooden Colossus",
+      "description": "Your body becomes dense and wooden. Walking speed decreases by 10 feet until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 175,
+      "a": 10,
+      "b": 20,
+      "pair": "Giant + Undead",
+      "type": "P",
+      "title": "Skeletal Giant",
+      "description": "Once per Long Rest, assume a skeletal giant appearance for 1 minute, gaining 15 Temporary HP and necrotic resistance.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 176,
+      "a": 10,
+      "b": 21,
+      "pair": "Giant + Void",
+      "type": "E",
+      "title": "Shadow Giant",
+      "description": "Once per Long Rest, become a towering shadow creature for 1 minute. Become Large, gain 10-foot melee reach and necrotic resistance. Once during the transformation, teleport up to 30 feet between areas of dim light or darkness as a Bonus Action.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 177,
+      "a": 11,
+      "b": 12,
+      "pair": "Humanoid + Jester",
+      "type": "P",
+      "title": "Borrowed Identity",
+      "description": "Cast Disguise Self once per Long Rest without a spell slot.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Disguise Self",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                262,
+                263
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 178,
+      "a": 11,
+      "b": 13,
+      "pair": "Humanoid + Moon",
+      "type": "P",
+      "title": "Wolfkin",
+      "description": "Once per Long Rest, develop wolf-like features for 1 minute, gaining advantage on Charisma (Intimidation) checks.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 179,
+      "a": 11,
+      "b": 14,
+      "pair": "Humanoid + Monstrosity",
+      "type": "N",
+      "title": "Monstrous Heritage",
+      "description": "Involuntarily become an Orc with visible monstrous mutations. Replace your species traits with 2024 Orc traits until Remove Curse. Retain your class, background, ability scores, and feats.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 180,
+      "a": 11,
+      "b": 15,
+      "pair": "Humanoid + Ooze",
+      "type": "P",
+      "title": "Amorphous Anatomy",
+      "description": "Once per Long Rest, soften your body for 1 minute, gaining advantage on ability checks and saving throws made to escape grapples or restraints.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 181,
+      "a": 11,
+      "b": 16,
+      "pair": "Humanoid + Plant",
+      "type": "P",
+      "title": "Plantfolk",
+      "description": "Once per Long Rest, take on a plant-like appearance for 1 minute, gaining poison resistance and 10 Temporary HP.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 182,
+      "a": 11,
+      "b": 17,
+      "pair": "Humanoid + Skull",
+      "type": "E",
+      "title": "Deathless Champion",
+      "description": "Once per Long Rest, become a deathless warrior for 1 minute, gaining necrotic resistance, immunity to being Frightened, and 10 Temporary HP.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Frightened",
+              "pages": [
+                367
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 183,
+      "a": 11,
+      "b": 18,
+      "pair": "Humanoid + Talons",
+      "type": "P",
+      "title": "Hidden Claws",
+      "description": "Permanently gain retractable magical claws dealing 1d8 slashing + your attack ability modifier. Gain advantage on Charisma (Intimidation) checks while displaying them.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 184,
+      "a": 11,
+      "b": 19,
+      "pair": "Humanoid + Tree",
+      "type": "N",
+      "title": "Barkskin Curse",
+      "description": "Your skin becomes dry wooden bark. Gain vulnerability to fire damage until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 185,
+      "a": 11,
+      "b": 20,
+      "pair": "Humanoid + Undead",
+      "type": "P",
+      "title": "Mask of the Dead",
+      "description": "Once per Long Rest, appear undead for 1 minute. Undead with Intelligence 5 or lower regard you as another undead unless you attack or provoke them.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 186,
+      "a": 11,
+      "b": 21,
+      "pair": "Humanoid + Void",
+      "type": "P",
+      "title": "Shadow Disappearance",
+      "description": "Cast Invisibility on yourself once per Long Rest without expending a spell slot. Follow its normal rules.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 187,
+      "a": 12,
+      "b": 13,
+      "pair": "Jester + Moon",
+      "type": "P",
+      "title": "Lunar Mischief",
+      "description": "Once per Long Rest, transform into a randomly selected harmless Beast for 10 minutes. Roll 1d6: Cat, Rat, Bat, Frog, Lizard, or Raven. Use its physical statistics and movement while retaining mental ability scores and normal HP.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Bat",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#Bat",
+              "pages": [
+                349
+              ]
+            },
+            {
+              "label": "Cat",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#Cat",
+              "pages": [
+                351
+              ]
+            },
+            {
+              "label": "Rat",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#Rat",
+              "pages": [
+                367
+              ]
+            },
+            {
+              "label": "Raven",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#Raven",
+              "pages": [
+                368
+              ]
+            },
+            {
+              "label": "Frog",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#Frog",
+              "pages": [
+                354
+              ]
+            },
+            {
+              "label": "Lizard",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/animals#Lizard",
+              "pages": [
+                364
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 188,
+      "a": 12,
+      "b": 14,
+      "pair": "Jester + Monstrosity",
+      "type": "P",
+      "title": "Chaotic Monster",
+      "description": "Once per Long Rest, summon a randomly selected CR 1 or lower Monstrosity for 1 minute. Roll 1d4: Cockatrice, Darkmantle, Hippogriff, or Rust Monster.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Cockatrice",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-c#Cockatrice",
+              "pages": [
+                75
+              ]
+            },
+            {
+              "label": "Darkmantle",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-d#Darkmantle",
+              "pages": [
+                90
+              ]
+            },
+            {
+              "label": "Hippogriff",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-h#Hippogriff",
+              "pages": [
+                169
+              ]
+            },
+            {
+              "label": "Rust Monster",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-r#RustMonster",
+              "pages": [
+                263
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 189,
+      "a": 12,
+      "b": 15,
+      "pair": "Jester + Ooze",
+      "type": "N",
+      "title": "Gelatinous Instability",
+      "description": "For 1 hour after each Long Rest, you have disadvantage on Dexterity ability checks until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 190,
+      "a": 12,
+      "b": 16,
+      "pair": "Jester + Plant",
+      "type": "E",
+      "title": "Fey Garden",
+      "description": "Summon a Dryad for 10 minutes, once per Long Rest. It disappears immediately if you become Incapacitated.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Dryad",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-d#Dryad",
+              "pages": [
+                107
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Incapacitated",
+              "pages": [
+                369
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 191,
+      "a": 12,
+      "b": 17,
+      "pair": "Jester + Skull",
+      "type": "P",
+      "title": "Skeletal Trickster",
+      "description": "Permanently gain a Crawling Claw companion.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Crawling Claw",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-c#CrawlingClaw",
+              "pages": [
+                83
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 192,
+      "a": 12,
+      "b": 18,
+      "pair": "Jester + Talons",
+      "type": "P",
+      "title": "Chaos Claws",
+      "description": "Permanently gain magical claws dealing 1d8 + your attack ability modifier. Roll 1d4 after each Long Rest for the damage type: acid, cold, fire, or lightning.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 193,
+      "a": 12,
+      "b": 19,
+      "pair": "Jester + Tree",
+      "type": "P",
+      "title": "Shrub Disguise",
+      "description": "Once per Long Rest, transform into an Awakened Shrub for 10 minutes, using its physical statistics and actions while retaining mental ability scores and normal HP.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Awakened Shrub",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-a#AwakenedShrub",
+              "pages": [
+                23
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 194,
+      "a": 12,
+      "b": 20,
+      "pair": "Jester + Undead",
+      "type": "N",
+      "title": "Mischievous Haunting",
+      "description": "A ghostly apparition follows you. Once per Long Rest, the DM can have it audibly reveal your location, causing you to lose the Hidden condition. Ends with Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 195,
+      "a": 12,
+      "b": 21,
+      "pair": "Jester + Void",
+      "type": "P",
+      "title": "Chaotic Teleportation",
+      "description": "Once per Long Rest, as a Bonus Action, roll 1d8 for a random compass direction and teleport up to 30 feet in that direction to the nearest unoccupied space you can see. If none exists, the teleport fails without consuming the use.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 196,
+      "a": 13,
+      "b": 14,
+      "pair": "Moon + Monstrosity",
+      "type": "E",
+      "title": "Blessing of the Moon",
+      "description": "Once per Long Rest, as a Bonus Action, transform into a werewolf-like hybrid for 1 minute. Gain magical claws dealing 2d6 slashing + your attack ability modifier. At the start of each turn while above 0 HP, regain HP equal to half your character level (rounded down) + Proficiency Bonus. Taking damage from a silvered weapon suppresses regeneration until the start of your next turn. Retain normal statistics and class features.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 197,
+      "a": 13,
+      "b": 15,
+      "pair": "Moon + Ooze",
+      "type": "P",
+      "title": "Lunar Ooze",
+      "description": "Once per Long Rest, become gelatinous for 1 minute. Gain acid resistance and pass through openings at least 1 inch wide, provided your equipment fits or is left behind.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 198,
+      "a": 13,
+      "b": 16,
+      "pair": "Moon + Plant",
+      "type": "P",
+      "title": "Moonflower",
+      "description": "Once per Long Rest, conjure a luminous flower. As a Magic action, touch a creature to restore 2d8 HP.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 199,
+      "a": 13,
+      "b": 17,
+      "pair": "Moon + Skull",
+      "type": "N",
+      "title": "Curse of the Moon",
+      "description": "A deathly lunar curse takes root in your blood. When wounded, the beast within struggles to emerge, twisting your body into a grotesque imitation of a werewolf.\n\nTrigger: Once between Long Rests, the first time damage reduces you from at least half your maximum HP to below half your maximum HP, make a DC 13 Wisdom saving throw.\n\nOn a failure, you undergo an involuntary partial werewolf transformation for 1 minute. Your bones crack, your face stretches into a lupine muzzle, dark fur spreads across your body, and your fingernails lengthen into twisted claws.\n\nWhile transformed, you suffer disadvantage on Wisdom and Charisma ability checks, cannot regain HP through magical healing, and take an additional 1d6 damage of the weapon's type whenever a silvered weapon damages you.\n\nYou retain control, normal statistics, and class features. You gain no additional attacks, damage, or regeneration.\n\nA successful initial saving throw prevents the transformation until your next Long Rest. The curse continues to trigger after subsequent Long Rests until Remove Curse ends it, including any active transformation.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 200,
+      "a": 13,
+      "b": 18,
+      "pair": "Moon + Talons",
+      "type": "P",
+      "title": "Silver Moon Claws",
+      "description": "Once per Long Rest, grow magical silvered claws for 1 minute, dealing 1d10 slashing + your attack ability modifier. They count as silvered weapons.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 201,
+      "a": 13,
+      "b": 19,
+      "pair": "Moon + Tree",
+      "type": "P",
+      "title": "Moonlit Treant",
+      "description": "Once per Long Rest, transform into a moonlit tree-like creature for 1 minute, gaining 10 Temporary HP and 10-foot melee reach.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 202,
+      "a": 13,
+      "b": 20,
+      "pair": "Moon + Undead",
+      "type": "E",
+      "title": "Spectral Werewolf",
+      "description": "Once per Long Rest, become a ghostly werewolf for 1 minute, gaining necrotic resistance and magical claws dealing 2d6 slashing + your attack ability modifier. Once during the transformation, as a Magic action, creatures of your choice within 15 feet make a Wisdom save or become Frightened until the end of your next turn.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Frightened",
+              "pages": [
+                367
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 203,
+      "a": 13,
+      "b": 21,
+      "pair": "Moon + Void",
+      "type": "P",
+      "title": "Moonshadow",
+      "description": "Once per Long Rest, while in dim light or darkness, become Invisible until the end of your next turn as a Bonus Action.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Invisible",
+              "pages": [
+                370
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 204,
+      "a": 14,
+      "b": 15,
+      "pair": "Monstrosity + Ooze",
+      "type": "N",
+      "title": "Unstable Mutation",
+      "description": "Monstrous growths spread across your body. Maximum HP decreases by 5, and you have disadvantage on checks made to escape grapples until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 205,
+      "a": 14,
+      "b": 16,
+      "pair": "Monstrosity + Plant",
+      "type": "E",
+      "title": "Living Horror",
+      "description": "Once per Long Rest, as a Magic action, summon a Shambling Mound in an unoccupied space within 30 feet for 1 minute. It uses its official Monster Manual statistics, is friendly, acts immediately after your turn, and obeys verbal commands. It disappears when reduced to 0 HP, dismissed, its duration expires, or you become Incapacitated. No concentration required.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Shambling Mound",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-s#ShamblingMound",
+              "pages": [
+                276
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Incapacitated",
+              "pages": [
+                369
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 206,
+      "a": 14,
+      "b": 17,
+      "pair": "Monstrosity + Skull",
+      "type": "P",
+      "title": "Grave Monster",
+      "description": "Summon a Ghoul for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Ghoul",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-g#Ghoul",
+              "pages": [
+                132
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 207,
+      "a": 14,
+      "b": 18,
+      "pair": "Monstrosity + Talons",
+      "type": "P",
+      "title": "Monstrous Predator",
+      "description": "Permanently gain magical claws dealing 1d10 slashing + your attack ability modifier and a climbing speed equal to walking speed.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 208,
+      "a": 14,
+      "b": 19,
+      "pair": "Monstrosity + Tree",
+      "type": "E",
+      "title": "Monstrous Treant",
+      "description": "Once per Long Rest, become Large for 1 minute, gaining 20 Temporary HP and 10-foot melee reach. Once during the transformation, as a Magic action, force a creature within 10 feet to make a Strength save or become Restrained until the end of your next turn by grasping roots.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Restrained",
+              "pages": [
+                373
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 209,
+      "a": 14,
+      "b": 20,
+      "pair": "Monstrosity + Undead",
+      "type": "N",
+      "title": "Ghoul Hunger",
+      "description": "Develop an unnatural hunger for fresh meat. At the end of each Long Rest during which you haven't eaten fresh meat, gain one Exhaustion level. Remove Curse stops further Exhaustion but doesn't remove existing levels.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        },
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Exhaustion",
+              "pages": [
+                366
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 210,
+      "a": 14,
+      "b": 21,
+      "pair": "Monstrosity + Void",
+      "type": "P",
+      "title": "Shadow Monster",
+      "description": "Summon a Shadow for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Shadow",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-s#Shadow",
+              "pages": [
+                272
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 211,
+      "a": 15,
+      "b": 16,
+      "pair": "Ooze + Plant",
+      "type": "P",
+      "title": "Living Slime Garden",
+      "description": "Permanently gain an Awakened Shrub companion.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Awakened Shrub",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-a#AwakenedShrub",
+              "pages": [
+                23
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 212,
+      "a": 15,
+      "b": 17,
+      "pair": "Ooze + Skull",
+      "type": "P",
+      "title": "Dissolving Servant",
+      "description": "Permanently gain a Gray Ooze companion, including its normal corrosion abilities.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Gray Ooze",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-g#GrayOoze",
+              "pages": [
+                151
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 213,
+      "a": 15,
+      "b": 18,
+      "pair": "Ooze + Talons",
+      "type": "P",
+      "title": "Corrosive Claws",
+      "description": "Permanently gain retractable magical claws dealing 1d8 acid + your attack ability modifier. Corrosive Strike: Once per Long Rest, when you hit with these claws, force the target to make a Constitution save against your Deck Save DC. On failure, it suffers a −2 penalty to AC until the end of your next turn. This penalty cannot stack with itself.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 214,
+      "a": 15,
+      "b": 19,
+      "pair": "Ooze + Tree",
+      "type": "N",
+      "title": "Adhesive Skin",
+      "description": "Your skin becomes sticky and resinous. You have disadvantage on Dexterity (Sleight of Hand) checks and checks made to escape restraints until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 215,
+      "a": 15,
+      "b": 20,
+      "pair": "Ooze + Undead",
+      "type": "E",
+      "title": "Undead Ooze",
+      "description": "Once per Long Rest, transform for 1 minute, gaining acid and necrotic resistance. At the start of each turn while above 0 HP, regain 3 HP. Pass through gaps at least 1 inch wide, provided equipment fits or is left behind.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 216,
+      "a": 15,
+      "b": 21,
+      "pair": "Ooze + Void",
+      "type": "P",
+      "title": "Shadow Slime",
+      "description": "Once per Long Rest, become a shadowy gelatinous creature for 1 minute, gaining necrotic resistance and advantage on checks to escape grapples.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 217,
+      "a": 16,
+      "b": 17,
+      "pair": "Plant + Skull",
+      "type": "P",
+      "title": "Gravegrown Servant",
+      "description": "Summon a Zombie for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Zombie",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-z#Zombie",
+              "pages": [
+                346
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 218,
+      "a": 16,
+      "b": 18,
+      "pair": "Plant + Talons",
+      "type": "P",
+      "title": "Thorn Claws",
+      "description": "Permanently gain magical thorny claws dealing 1d8 piercing + your attack ability modifier. Once per Long Rest, as a Magic action, force a creature within 10 feet to make a Strength save or become Restrained until the end of your next turn by thorny vines.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Conditions and Concentration · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Restrained",
+              "pages": [
+                373
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 219,
+      "a": 16,
+      "b": 19,
+      "pair": "Plant + Tree",
+      "type": "N",
+      "title": "Rooted Feet",
+      "description": "Thick roots grow from your feet and ankles, reducing walking speed by 10 feet until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 220,
+      "a": 16,
+      "b": 20,
+      "pair": "Plant + Undead",
+      "type": "P",
+      "title": "Fungal Renewal",
+      "description": "Once per Long Rest, as a Bonus Action, restore 2d8 HP as restorative fungi bloom across your skin.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 221,
+      "a": 16,
+      "b": 21,
+      "pair": "Plant + Void",
+      "type": "P",
+      "title": "Shadow Sapling",
+      "description": "Permanently gain an Awakened Shrub companion. Its shadowy appearance is cosmetic.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Awakened Shrub",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-a#AwakenedShrub",
+              "pages": [
+                23
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 222,
+      "a": 17,
+      "b": 18,
+      "pair": "Skull + Talons",
+      "type": "E",
+      "title": "Skeletal Predator",
+      "description": "Once per Long Rest, transform into a skeletal hunting creature for 1 minute, gaining necrotic resistance, magical claws dealing 2d6 necrotic + your attack ability modifier, and advantage on melee attack rolls.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 223,
+      "a": 17,
+      "b": 19,
+      "pair": "Skull + Tree",
+      "type": "P",
+      "title": "Gravewood Guardian",
+      "description": "Summon a Vine Blight for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Vine Blight",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-b#VineBlight",
+              "pages": [
+                44
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 224,
+      "a": 17,
+      "b": 20,
+      "pair": "Skull + Undead",
+      "type": "N",
+      "title": "Marked by Death",
+      "description": "An ancient Wraith becomes aware of your existence and begins hunting you across the planes. Once per Long Rest, at the DM's discretion, a hostile Wraith may manifest within 30 feet of you. It uses its official Monster Manual statistics, rolls Initiative, and acts independently. The DM determines when and under what circumstances it appears. Defeating it doesn't end the curse; another may manifest after a subsequent Long Rest. Remove Curse permanently ends the supernatural pursuit.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        },
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Wraith",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-w#Wraith",
+              "pages": [
+                336
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 225,
+      "a": 17,
+      "b": 21,
+      "pair": "Skull + Void",
+      "type": "P",
+      "title": "Spectral Servant",
+      "description": "Summon a Specter for 1 minute, once per Long Rest.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Creature stat blocks · Monster Manual (2024)",
+          "links": [
+            {
+              "label": "Specter",
+              "url": "https://www.dndbeyond.com/sources/dnd/mm-2024/monsters-s#Specter",
+              "pages": [
+                290
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 226,
+      "a": 18,
+      "b": 19,
+      "pair": "Talons + Tree",
+      "type": "P",
+      "title": "Wooden Claws",
+      "description": "Permanently gain magical hardened wooden claws dealing 1d8 piercing + your attack ability modifier and a climbing speed equal to walking speed.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 227,
+      "a": 18,
+      "b": 20,
+      "pair": "Talons + Undead",
+      "type": "P",
+      "title": "Spectral Talons",
+      "description": "Permanently gain magical ghostly claws dealing 1d8 necrotic + your attack ability modifier.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 228,
+      "a": 18,
+      "b": 21,
+      "pair": "Talons + Void",
+      "type": "E",
+      "title": "Shadow Predator",
+      "description": "Once per Long Rest, transform into a shadowy predator for 1 minute. Gain necrotic resistance, magical claws dealing 2d6 slashing + your attack ability modifier, and the ability to teleport up to 30 feet to an unoccupied space you can see as a Bonus Action on each of your turns.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 229,
+      "a": 19,
+      "b": 20,
+      "pair": "Tree + Undead",
+      "type": "N",
+      "title": "Deadwood Flesh",
+      "description": "Your skin and muscles become dead wood. Maximum HP decreases by 10 until Remove Curse.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5,
+      "rulesReferences": [
+        {
+          "title": "Spells · Player’s Handbook (2024)",
+          "links": [
+            {
+              "label": "Remove Curse",
+              "url": "https://www.dndbeyond.com/spells",
+              "pages": [
+                312
+              ],
+              "book": "phb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 230,
+      "a": 19,
+      "b": 21,
+      "pair": "Tree + Void",
+      "type": "P",
+      "title": "Shadow Treant",
+      "description": "Once per Long Rest, transform into a dark tree-like creature for 1 minute, gaining 10 Temporary HP, 10-foot melee reach, and necrotic resistance.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    },
+    {
+      "number": 231,
+      "a": 20,
+      "b": 21,
+      "pair": "Undead + Void",
+      "type": "P",
+      "title": "Ghost Form",
+      "description": "Once per Long Rest, transform into a ghostly version of yourself for 1 minute, gaining a 30-foot flying speed (hover), necrotic resistance, and the ability to move through creatures and objects as difficult terrain. If you end your turn inside an object, you are shunted to the nearest unoccupied space and take 1d10 force damage.",
+      "notes": "",
+      "review": false,
+      "referenceNote": "",
+      "revision": 5
+    }
+  ],
+  "rules": [
+    {
+      "title": "Drawing cards",
+      "text": "Draw two different cards from the 22-card deck. Their order doesn't matter. Resolve the outcome associated with that pair."
+    },
+    {
+      "title": "Deck Save DC",
+      "text": "8 + your Proficiency Bonus + the highest of your Intelligence, Wisdom, or Charisma modifiers."
+    },
+    {
+      "title": "Natural weapons",
+      "text": "Deck-granted claws, bites, and talons use Strength + Proficiency Bonus for attack rolls and add Strength to damage. If a class feature allows a different ability modifier for Unarmed Strikes, such as the Monk's Martial Arts feature, that modifier can be used instead. These natural weapons count as magical for overcoming resistance and immunity to nonmagical attacks."
+    },
+    {
+      "title": "Transformations",
+      "text": "Unless specified otherwise, activate as a Bonus Action, last 1 minute, and can be used once per Long Rest. Retain your HP, ability scores, class features, and equipment unless the effect explicitly replaces them."
+    },
+    {
+      "title": "Temporary summons",
+      "text": "Unless stated otherwise, summoning takes a Magic action, has a range of 30 feet, lasts 1 minute, and can be used once per Long Rest. Summoned creatures use their official Monster Manual statistics, share your Initiative, act immediately after your turn, and obey your verbal commands without requiring an action. No concentration is required. They disappear when reduced to 0 HP, dismissed as a Bonus Action, their duration expires, or you become Incapacitated."
+    },
+    {
+      "title": "Permanent companions",
+      "text": "Only one permanent deck companion can be active per character. It disappears if destroyed, dismissed, or its summoner becomes Incapacitated. It can be resummoned after the summoner finishes a Long Rest. Companions cannot create additional permanent servants."
+    },
+    {
+      "title": "Curses",
+      "text": "Negative effects can be ended with Remove Curse unless explicitly marked Permanent — Cannot Be Cured."
+    }
+  ],
+  "statBlockSource": "https://www.dndbeyond.com/sources/dnd/mm-2024",
+  "rulesReferences": [
+    {
+      "title": "Summons and companions",
+      "links": [
+        {
+          "label": "Monster Manual (2024) stat-block index",
+          "url": "https://www.dndbeyond.com/sources/dnd/mm-2024#IndexofStatBlocks"
+        }
+      ]
+    }
+  ]
+}
